@@ -1,0 +1,13 @@
+{
+  "windows": {
+    "size_width": 1280,
+    "size_height": 720
+  },
+  "videos": {
+    "size_width": 720,
+    "size_height": 720,
+    "fps": 5,
+    "time_stamp_range": 1,
+    "delta_sec": 0.01
+  }
+}
