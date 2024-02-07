@@ -1,7 +1,7 @@
 ﻿
 #include <Siv3D.hpp>
-#include <vector>
-#include <cmath>
+//#include <vector>
+//#include <cmath>
 
 #define PI 3.141592653589
 struct Location
